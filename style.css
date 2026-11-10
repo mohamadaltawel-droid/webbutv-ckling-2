@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(64, 186, 200);
+    color: rgb(45, 103, 128);
+    
+    color: rgb(109, 7, 33);
+}
+
+.profilebox {
+    background-color: #96c840;
+    color: rgb(45, 103, 128);
+    padding: 10px;
+    border: 2px solid rgb(109, 7, 33);
+    border-radius: 5px;
+    margin-top: 20px;
+}
